@@ -7,6 +7,7 @@ Mi legajo es 172397-2
 
 ## Me Gusta:
 <ul>
-<li>Dormir</li>
-<li>Leer</li>
-<li>Ver anime</li>
+<li>Dormir, pero ultimamente no puedo, ya que curso por la mañana y tengo un trabajo temporal a la tarde</li> 
+<li>Leer, intento leer un libro fisico por mes (en febrero fue ciudades de papel), luego es todo virtual. Suelo leer fanfics, mangas y novelas</li>
+<li>Ver anime, mi favorito en One Piece</li>
+</ul>
